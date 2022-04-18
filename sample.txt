@@ -1,3 +1,5 @@
 appl
 banana
 grapes
+orange
+lemene
